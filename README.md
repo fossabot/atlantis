@@ -37,7 +37,12 @@ Runs `terraform plan` and `apply` remotely and comments back on the pull request
 [![CircleCI](https://circleci.com/gh/runatlantis/atlantis/tree/master.svg?style=shield)](https://circleci.com/gh/runatlantis/atlantis/tree/master)
 [![Slack](https://img.shields.io/badge/Join-Atlantis%20Community%20Slack-red)](https://join.slack.com/t/atlantis-community/shared_invite/enQtNzc4NDM3OTA3ODI0LTA5NDQ4YTA3NTAxM2I3ZmIxMGNiYWJhNmY4YjBjZjM3OWMzNGI0NTcxNzY2NjRhODIyODA4YmNjOTBiOThhNTI)
 [![Gitter chat](https://badges.gitter.im/runatlantis.png)](https://gitter.im/runatlantis)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fchenrui333%2Fatlantis.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fchenrui333%2Fatlantis?ref=badge_shield)
 
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/runatlantis/atlantis.svg)](https://starchart.cc/runatlantis/atlantis)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fchenrui333%2Fatlantis.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fchenrui333%2Fatlantis?ref=badge_large)
